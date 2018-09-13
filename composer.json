@@ -1,6 +1,6 @@
 {
     "name": "wisnet/behatpom-temp",
-    "description": "BDD, Behat, Mink, Selenium, Page Object Models, Framework"
+    "description": "BDD, Behat, Mink, Selenium, Page Object Models, Framework",
     "type": "project",
     "require": {
 	"behat/behat": "~3.1",
